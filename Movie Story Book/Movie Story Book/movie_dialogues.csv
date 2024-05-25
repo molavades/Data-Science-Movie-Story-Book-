@@ -1,0 +1,81 @@
+IMAGE,ENGLISH,HINDI,NUMBER_OF_LINE,NUMBER_OF_LINE_ENGLISH,STRIP_HINDI,STRIP_HINDI
+./images/raw_images/scene1.jpg, A Radiant Day,एक किरणमय दिन,0,0,./images/processed_images/strip0.jpg,./images/processed_images/strip0.jpg
+./images/raw_images/scene2.jpg,The eminent Boston Public Library,प्रसिद्ध बॉस्टन सार्वजनिक पुस्तकालय,1,1,./images/processed_images/strip1.jpg,./images/processed_images/strip1.jpg
+./images/raw_images/scene3.jpg,Oliver scrolling through books at library,ऑलिवर पुस्तकालय में किताबें ब्राउज़ करते हुए।,1,1,./images/processed_images/strip2.jpg,./images/processed_images/strip2.jpg
+./images/raw_images/scene4.jpg,AI powered glasses\nlying between books,किताबों के बीच पड़ा\nएआई संचालित चश्मा,2,2,./images/processed_images/strip3.jpg,./images/processed_images/strip3.jpg
+./images/raw_images/scene5.jpg,Oliver pulls out a book\nAI glasses fall down,ओलिवर एक किताब निकालता है\nएआई चश्मा नीचे गिर जाता है,2,2,./images/processed_images/strip4.jpg,./images/processed_images/strip4.jpg
+./images/raw_images/scene6.jpg,Oliver sees the glasses on floor\npicks it up\nhe finds them suspicious,ओलिवर फर्श पर चश्मा देखता है\nउसे उठाता है\nउसे वे संदिग्ध लगते हैं,3,3,./images/processed_images/strip5.jpg,./images/processed_images/strip5.jpg
+./images/raw_images/scene7.jpg,Oliver approaches the librarian with glasses\nMs.Doyle asks him to try on the glasses,ओलिवर चश्मे के साथ लाइब्रेरियन के पास आता है\nसुश्री डॉयल उसे चश्मा आज़माने के लिए कहती है,2,2,./images/processed_images/strip6.jpg,./images/processed_images/strip6.jpg
+./images/raw_images/scene8.jpg,Oliver puts on the glasses,ओलिवर चश्मा लगाता है,1,1,./images/processed_images/strip7.jpg,./images/processed_images/strip7.jpg
+./images/raw_images/scene9.jpg,He finds a book about the\nBoston Tea Party,उसे बोस्टन टी पार्टी के\nबारे में एक किताब मिली,2,2,./images/processed_images/strip8.jpg,./images/processed_images/strip8.jpg
+./images/raw_images/scene10.jpg,The book is filled with pictures\nabout Boston Tea Party,यह पुस्तक बोस्टन टी पार्टी के\nबारे में चित्रों से भरी हुई है,2,2,./images/processed_images/strip9.jpg,./images/processed_images/strip9.jpg
+./images/raw_images/scene11.jpg,He starts reading the book,वह किताब पढ़ना शुरू करता है,1,1,./images/processed_images/strip10.jpg,./images/processed_images/strip10.jpg
+./images/raw_images/scene12.jpg,Suddenly the glasses glitch,अचानक चश्मा खराब हो गया,1,1,./images/processed_images/strip11.jpg,./images/processed_images/strip11.jpg
+./images/raw_images/scene13.jpg,"To his surprise, Oliver is transported to 1773\npictures of book are turned into reality","उसे आश्चर्य हुआ, ओलिवर को 1773 में ले जाया गया\nकिताब की तस्वीरें वास्तविकता में बदल गईं",2,2,./images/processed_images/strip12.jpg,./images/processed_images/strip12.jpg
+./images/raw_images/scene14.jpg,He arrives at the Boston Tea Party house,वह बोस्टन टी पार्टी हाउस में पहुंचे,1,1,./images/processed_images/strip13.jpg,./images/processed_images/strip13.jpg
+./images/raw_images/scene15.jpg,He wanders around\neverything seems to be real,वह इधर-उधर घूमता रहता है\nकुछ भी वास्तविक लगता है,2,2,./images/processed_images/strip14.jpg,./images/processed_images/strip14.jpg
+./images/raw_images/scene16.jpg,There are ships loaded with tea by the sea,समुद्र के किनारे चाय से लदे हुए जहाज हैं,1,1,./images/processed_images/strip15.jpg,./images/processed_images/strip15.jpg
+./images/raw_images/scene17.jpg,"While exploring the place, he finds a map ","जगह की खोज करते समय, उसे एक नक्शा मिलता है",1,1,./images/processed_images/strip16.jpg,./images/processed_images/strip16.jpg
+./images/raw_images/scene18.jpg,He follows the map ,वह मानचित्र का अनुसरण करता है,1,1,./images/processed_images/strip17.jpg,./images/processed_images/strip17.jpg
+./images/raw_images/scene19.jpg,And comes accross Meeting Room in the House,और सदन के बैठक कक्ष में आता है,1,1,./images/processed_images/strip18.jpg,./images/processed_images/strip18.jpg
+./images/raw_images/scene20.jpg,Enters the House,सदन में प्रवेश करता है,1,1,./images/processed_images/strip19.jpg,./images/processed_images/strip19.jpg
+./images/raw_images/scene21.jpg,"He gazes through many newspaper, articles","वह कई अखबारों, लेखों को देखता है",1,1,./images/processed_images/strip20.jpg,./images/processed_images/strip20.jpg
+./images/raw_images/scene22.jpg,The streets of Boston are bustling\nwith people dressed in ancient clothing ,बोस्टन की सड़कें प्राचीन पोशाक\nपहने लोगों से गुलजार हैं,2,2,,
+./images/raw_images/scene23.jpg,Oliver interacts with the people Boston,ओलिवर ने बोस्टन के लोगों से बातचीत की,1,1,,
+./images/raw_images/scene24.jpg,"He bumps into Jennifer,\na copywriter of the Boston Newsletter",उसकी मुलाकात बोस्टन न्यूज़लैटर\nकी कॉपीराइटर जेनिफ़र से होती है,2,2,,
+./images/raw_images/scene25.jpg,Jennifer shows him around the place.\nIntroduces him to all members,जेनिफ़र उसे जगह दिखाती है।\nउसे सभी सदस्यों से परिचित कराती है,2,2,,
+./images/raw_images/scene26.jpg,She points out to the ships\nwhere the people are working,वह उन जहाजों की ओर इशारा करती है\nजहां लोग काम कर रहे हैं,2,2,,
+./images/raw_images/scene27.jpg,The Ship,जहाज,1,1,,
+./images/raw_images/scene28.jpg,She talks about their sufferings,वह उनकी तकलीफों के बारे में बात करती हैं,1,1,,
+./images/raw_images/scene29.jpg,He feels the pain and tension around him,वह अपने आसपास दर्द और तनाव को महसूस करता है,1,1,,
+./images/raw_images/scene30.jpg,Jennifer gifts Oliver a letter that she has penned,जेनिफर ने ओलिवर को एक पत्र\nउपहार में दिया जो उसने लिखा था,1,2,,
+./images/raw_images/scene31.jpg,The Gift: A Newsletter,उपहार: एक समाचार पत्र,1,1,,
+./images/raw_images/scene32.jpg,"Oliver watches men riding horses, announcing",ओलिवर घोड़ों पर सवार लोगों\nको घोषणा करते हुए देखता है,1,2,,
+./images/raw_images/scene33.jpg,Watches men at work,काम पर पुरुषों को देखता है,1,1,,
+./images/raw_images/scene34.jpg,"Leya, an artist showing her art to the people of Boston","लेया, एक कलाकार जो बोस्टन के\nलोगों को अपनी कला दिखा रही है",1,2,,
+./images/raw_images/scene35.jpg,Leya meets Oliver,लिआ की मुलाकात ओलिवर से होती है,1,1,,
+./images/raw_images/scene36.jpg,They both interact about her whereabouts,वे दोनों उसके ठिकाने के बारे में बातचीत करते हैं,1,1,,
+./images/raw_images/scene37.jpg,She tells him the history of this movement,वह उन्हें इस आंदोलन का इतिहास बताती हैं,1,1,,
+./images/raw_images/scene38.jpg,She shows him her art,वह उसे अपनी कला दिखाती है,1,1,,
+./images/raw_images/scene39.jpg,Oliver is intrigued by her work\nappreciated her,ओलिवर उसके काम से बहुत प्रभावित हुआ\nउसकी सराहना की,2,2,,
+./images/raw_images/scene40.jpg,She makes him taste the most delicious tea ,वह उसे सबसे स्वादिष्ट चाय का स्वाद चखाती है,1,1,,
+./images/raw_images/scene41.jpg,"Later, Oliver continues to explore ","बाद में, ओलिवर ने खोजबीन जारी रखी",1,1,,
+./images/raw_images/scene42.jpg,Everything seems so real to him,उसे सब कुछ बहुत वास्तविक लगता है,1,1,,
+./images/raw_images/scene43.jpg,He enjoys his time talking to Leya,वह लेया से बात करके अपने\nसमय का आनंद लेता है,1,2,,
+./images/raw_images/scene44.jpg,Background scene,पृष्ठभूमि दृश्य,1,1,,
+./images/raw_images/scene45.jpg,Leya gifts him a postcard,लेया ने उसे एक पोस्टकार्ड उपहार में दिया,1,1,,
+./images/raw_images/scene46.jpg,He mingles with everyone,वह सबके साथ घुलमिल जाते हैं,1,1,,
+./images/raw_images/scene47.jpg,The air bursts into laughter with his presence,उसकी उपस्थिति में हवा हंसी से गूंज उठी,1,1,,
+./images/raw_images/scene48.jpg,Olivers sees everything taking\nplace as he remembers reading,ऑलिव्स को पढ़ना याद करते हुए सब\nकुछ घटित होता हुआ दिखाई देता है,2,2,,
+./images/raw_images/scene49.jpg,Historic movement in progress,ऐतिहासिक आंदोलन प्रगति पर है,1,1,,
+./images/raw_images/scene50.jpg,Historic movement in progress,ऐतिहासिक आंदोलन प्रगति पर है,1,1,,
+./images/raw_images/scene51.jpg,Historic movement in progress,ऐतिहासिक आंदोलन प्रगति पर है,1,1,,
+./images/raw_images/scene52.jpg,Oliver enjoys tea with his mates,ओलिवर अपने साथियों के साथ चाय का आनंद लेता है,1,1,,
+./images/raw_images/scene53.jpg,The Plaque,पट्टिका,1,1,,
+./images/raw_images/scene54.jpg,"In an instant, Oliver catches himself to be back at the library\nwhere he was reading the book","एक पल में, ओलिवर खुद को लाइब्रेरी में\nवापस पाता है जहां वह किताब पढ़ रहा था",2,2,,
+./images/raw_images/scene55.jpg,He is puzzled He removes the glasses and looks at\nthem with many questions in his mind,वह हैरान है वह चश्मा उतारता है\nऔर मन में कई सवाल लेकर उसे देखता है,2,2,,
+./images/raw_images/scene56.jpg,He looks around to see everything to be as it was before,वह चारों ओर देखता है कि सब कुछ वैसा ही हो जैसा पहले था,1,1,,
+./images/raw_images/scene57.jpg,He puts on the glasses back Nothing happens,वह चश्मा वापस लगाता है कुछ नहीं होता,1,1,,
+./images/raw_images/scene58.jpg,"As he strolls through the book aisles,\nhis eye catches anarticle similar\nto the one he got from Jennifer","जैसे ही वह किताबों के गलियारों में टहलता है,\nउसकी नजर एक लेख पर पड़ती है,\nजो उसे जेनिफ़र से मिला था",3,3,,
+./images/raw_images/scene59.jpg,A lady (looks similar to Jennifer)\nis sitting in a corner of the library,एक महिला (जेनिफर जैसी दिखती है)\nलाइब्रेरी के एक कोने में बैठी है,2,2,,
+./images/raw_images/scene60.jpg,Oliver narrates what happened with him to the lady\n Tells her how he met someone like her in 1773,ओलिवर ने महिला को अपने साथ हुई घटना के बारे में बताया\nउसे बताया कि वह 1773\nमें उसके जैसे किसी व्यक्ति से कैसे मिला था,2,3,,
+./images/raw_images/scene61.jpg,He shows her the glasses\nShe denies of knowing such glasses,वह उसे चश्मा दिखाता है वह ऐसे चश्मे की\nजानकारी होने से इनकार करती हैं,2,2,,
+./images/raw_images/scene62.jpg,"In a cryptic manner, she rubbishes his\nclaims of meeting or gifting him a letter","रहस्यमय तरीके से, वह उससे मिलने या पत्र\nउपहार देने के उसके दावों को खारिज कर देती है",2,2,,
+./images/raw_images/scene63.jpg,Oliver wanders in extreme confusion ,ओलिवर अत्यधिक असमंजस में भटक रहा है,1,1,,
+./images/raw_images/scene64.jpg,"A young perplexed artist, sitting in the library ","एक युवा हैरान कलाकार, लाइब्रेरी में बैठा हुआ",1,1,,
+./images/raw_images/scene65.jpg,Oliver watches her keenly,ओलिवर उसे गौर से देखता है,1,1,,
+./images/raw_images/scene66.jpg,He follows her ,वह उसका पीछा करता ह,1,1,,
+./images/raw_images/scene67.jpg,Observes her being puzzled,उसे हैरान होते हुए देखता है,1,1,,
+./images/raw_images/scene68.jpg,"He approaches her, narrates his story\nTo his surprise, she agrees to have the same experience","वह उसके पास जाता है, अपनी कहानी सुनाता है\nउसे आश्चर्य होता है, वह उसी अनुभव के लिए सहमत हो जाती है",2,2,,
+./images/raw_images/scene69.jpg,They both examine the glasses,वे दोनों चश्मे की जांच करते हैं,1,1,,
+./images/raw_images/scene70.jpg,They discuss abouth their journey and her gift to him,वे अपनी यात्रा के बारे में चर्चा करते हैं और उसे उसका उपहार,1,1,,
+./images/raw_images/scene71.jpg,Both are baffled with their experience,दोनों अपने अनुभव से चकित हैं,1,1,,
+./images/raw_images/scene72.jpg,Something seems to be wrong\nOliver and Leya are puzzled to find\nAI chips in the glass set They seem worried,कुछ गड़बड़ लग रही है\nओलिवर और लेया ग्लास सेट में\nएआई चिप्स पाकर हैरान हैं वे चिंतित लग रहे हैं,3,3,,
+./images/raw_images/scene73.jpg,Professor Doyle disguised as Ms.Doyle (Librarian)\nsecretly observes Oliver while he experiences the glasses,"सुश्री डॉयल (लाइब्रेरियन) के वेश में प्रोफेसर डॉयल,\nचश्मे का अनुभव करते समय ओलिवर\nको गुप्त रूप से देखते हैं",2,3,,
+./images/raw_images/scene74.jpg,She acts oblivious of his experience and the glasses,वह उसके अनुभव और चश्मे से बेखबर रहती है,1,1,,
+./images/raw_images/scene75.jpg,Professor secretly working her observations of Oliver\ntaking notes of his experience andreaction,प्रोफ़ेसर गुप्त रूप से ओलिवर के बारे में अपने\nअवलोकनों पर काम कर रही थी\nउसके अनुभव और प्रतिक्रिया को नोट कर रही थी,2,3,,
+./images/raw_images/scene76.jpg,She is seen working with the glasses,वह चश्मे के साथ काम करती नजर आ रही हैं,1,1,,
+./images/raw_images/scene77.jpg,She is working a research on how AI glasses effect a person's behaviour,वह इस बात पर शोध कर रही हैं कि एआई चश्मा\nकिसी व्यक्ति के व्यवहार को कैसे प्रभावित करता है,1,2,,
+./images/raw_images/scene78.jpg,Lady who seemed to be a novice Librarian\nturned out to be a cunning Professor\nwho used Oliver for her benefits,"जो महिला नौसिखिया लाइब्रेरियन लगती थी,\nवह एक चालाक प्रोफेसर बन गई,\nजिसने अपने फायदे के लिए ओलिवर का इस्तेमाल किया।",3,3,,
+./images/raw_images/scene79.jpg,Many puzzling questions in this story! Has the lady\n(Jennifer) lied to Oliver?Is she working with the Professor\nto manipulate people using AI?\nIs Doyle trying to take control of human psychology?,इस कहानी में कई उलझाने वाले सवाल! क्या महिला\n(जेनिफर) ने ओलिवर से झूठ बोला है?क्या वह एआई का\nउपयोग करके लोगों को हेरफेर करने के लिए\nप्रोफेसर के साथ काम कर रही है?\nक्या डॉयल मानव मनोविज्ञान पर नियंत्रण लेने की कोशिश कर रही है?,4,4,,
+./images/raw_images/scene80.jpg,"As time goes on, we wait to see the consequences\nof AI","जैसे-जैसे समय बीतता है, हम एआई के परिणामों को\nदेखने की प्रतीक्षा करते हैं",2,2,,
