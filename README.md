@@ -51,15 +51,14 @@
    Create visually stunning posters that represent the movie’s theme.  
 
 ---
-
 ## Tools and Technologies  
 
 - **Programming Language**: Python  
 - **Libraries**:  
-  - **Data Analysis**: Pandas, NumPy  
-  - **Visualization**: Matplotlib, Seaborn, WordCloud  
-  - **NLP**: NLTK, SpaCy  
-  - **Image Processing**: OpenCV, PIL  
+  - **Data Handling**: Pandas, CSV  
+  - **Image Processing**: Pillow (PIL), OpenCV  
+  - **Visualization**: IPython.display for interactive image display  
+  - **PDF Generation**: FPDF  
 
 - **Data**:  
   - `movie_dialogues.csv`: Source for analyzing character dialogues and narrative flow.  
