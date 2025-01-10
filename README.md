@@ -1,7 +1,7 @@
 # 🎥 Data Science Movie Story Book: Mirage  
 ### Movie Poster  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb248cad-ee46-4256-a770-467577d6623f" alt="Movie Poster" width="800">
+  <img src="https://github.com/user-attachments/assets/bb248cad-ee46-4256-a770-467577d6623f" alt="Movie Poster" width="800" height="400">
 </p>
 ---
 
